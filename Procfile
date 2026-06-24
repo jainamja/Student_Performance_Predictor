@@ -1,1 +1,1 @@
-web: gunicorn student_performance_predictor.wsgi --chdir student_performance_predictor
+web: gunicorn student_performance_predictor.wsgi
